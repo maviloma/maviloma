@@ -1,5 +1,5 @@
 ## quem  sou  eu ?
-- me chamo maria .
+- me chamo *mavee*
 - estou interresada em aprender programação .
 - ainda sou estudante .
 - entrei recentemente aqui .
