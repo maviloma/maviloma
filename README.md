@@ -3,7 +3,10 @@
 - estou interresada em aprender programação .
 - ainda sou estudante .
 - entrei recentemente aqui .
-- contato maria.marson@escola.pr.gov.br
+```
+ maria.marson@escola.pr.gov.br
+ ```
+ 
 - ja utilizei *javascript* e *scratch*
 
  ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
